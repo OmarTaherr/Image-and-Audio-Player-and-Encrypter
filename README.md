@@ -3,16 +3,16 @@ This repository contains MATLAB code for an image and audio player that also fea
 
 # Features
 Play and Encrypt image and audio files
-Intuitive user interface
+- Intuitive user interface
 # Requirements
 MATLAB R2018a or later
-Image Processing Toolbox
-Signal Processing Toolbox
+- Image Processing Toolbox
+- Signal Processing Toolbox
 # Usage
 Run the image_audio_player_encrypter.m script
-choose image then media files
-# Use the encryption feature to encrypt files
-Contributing
+- choose image then media files
+- Use the encryption feature to encrypt files
+# Contributing
 Contributions are welcome! Please open an issue or pull request for any bug fixes or feature requests.
 # Credits
 This repository was created by [OmarTaher] and is based on the MATLAB language. It uses various MATLAB toolboxes, including the Image Processing Toolbox and the Signal Processing Toolbox.
